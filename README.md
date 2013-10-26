@@ -9,4 +9,4 @@ Note: The gradle [1] build tool only works with a sibling build repo named `mast
 hence, this repo name.
 
 
-[1] Gradle - [`gradle.org`](http://gradle.org)
+[1] gradle - [`gradle.org`](http://gradle.org)
