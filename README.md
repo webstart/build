@@ -1,11 +1,12 @@
 # build scripts
 
 
-Note: The gradle build tool only works with a sibling build repo named 'master' for multi-module build scripts,
-hence, this repo name.
-
 
 
 ## Notes
 
-Gradle - [`gradle.org`](http://gradle.org)
+Note: The gradle [1] build tool only works with a sibling build repo named `master` for multi-module build scripts,
+hence, this repo name.
+
+
+[1] Gradle - [`gradle.org`](http://gradle.org)
