@@ -3,11 +3,7 @@
 Feed list/configuration for [Planet Vienna.rb](http://viennarb.herokuapp.com)
 and [Planet Friends of Vienna.rb](http://viennarb.herokuapp.com/viennarbfriends)
 
----
 
-[ANNOUNCEMENT] Looking for more awesome Ruby events? See the world-wide [Awesome Ruby Events (Conferences, Meetups, Camps, etc.) List @ Planet Ruby »](https://github.com/planetruby/awesome-events).
-
----
 
 Note: All feeds including the feed lists (that is, [viennarb.ini](viennarb.ini) and [viennarb-friends.ini](viennarb-friends.ini))
 get auto-updated (fetched) once a day (that is, every 24 hours).
