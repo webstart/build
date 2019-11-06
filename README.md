@@ -1,7 +1,7 @@
 # Planet Vienna.rb
 
-Feed list/configuration for [Planet Vienna.rb](http://viennarb.herokuapp.com)
-and [Planet Friends of Vienna.rb](http://viennarb.herokuapp.com/viennarbfriends)
+Web feed list and configuration for [Planet Vienna.rb](http://viennarb.herokuapp.com)
+and [Planet Friends of Vienna.rb](http://viennarb.herokuapp.com/viennarbfriends) news website / pages.
 
 
 ---
@@ -18,7 +18,7 @@ Or see the talk notes titled "[New Horizons - Build Your Own (Static) Planet New
 
 
 
-Note: All feeds including the feed lists (that is, [viennarb.ini](viennarb.ini) and [viennarb-friends.ini](viennarb-friends.ini))
+Note: All web feeds including the web feed lists (that is, [viennarb.ini](viennarb.ini) and [viennarb-friends.ini](viennarb-friends.ini))
 get auto-updated (fetched) once a day (that is, every 24 hours).
 
 
@@ -27,7 +27,7 @@ get auto-updated (fetched) once a day (that is, every 24 hours).
 [How To Add Your Feed](#how-to-add-your-feed)
 
 
-## Vienna.rb Feeds
+## Vienna.rb Web Feeds
 
 - **Vienna.rb News** (web: [vienna-rb.at](http://vienna-rb.at) [:mega:](http://vienna-rb.at/atom.xml))
 - **Vienna.rb Meetups** (meetup: [vienna-rb](http://www.meetup.com/vienna-rb) [:mega:](http://www.meetup.com/vienna-rb/events/rss/vienna.rb/))
@@ -103,9 +103,9 @@ _#viennarbmeetup_
 -->
 
 
-## How To Add Your Feed
+## How To Add Your Web Feed
 
-Step 1: Add your feed to the feed list. It's as easy as 1-2-3. 
+Step 1: Add your web feed to the web feed list. It's as easy as 1-2-3. 
 
 1. The blog/site title    =>  `**Floor Drees**`
 2. The blog/site link     =>  `[1stfloorgraphics.nl/blog](http://www.1stfloorgraphics.nl/blog)`
@@ -140,4 +140,4 @@ That's it. Wait for the next auto-update (max. 24 hours). Welcome on Planet Vien
 
 ## Powered by Pluto
 
-Planet Vienna.rb is powered by the [pluto gem](https://github.com/feedreader).
+Planet Vienna.rb is powered by the [pluto machinery](https://github.com/feedreader).
