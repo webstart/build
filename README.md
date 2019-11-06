@@ -6,12 +6,12 @@ and [Planet Friends of Vienna.rb](http://viennarb.herokuapp.com/viennarbfriends)
 
 ---
 
-Aside: What's a Planet?
+**Aside: What's a Planet?**
 
 See the talk notes titled "[New Horizons - Build Your Own (Static) Planet News Website w/ Pluto (and Ruby)](https://github.com/geraldb/talks/blob/master/planet.md)".
 
-Or see the [Open Street Maps Blogs](https://blogs.openstreetmap.org) page  
-as another real world (planet) example 
+Or see the [Open Street Maps Blogs](https://blogs.openstreetmap.org) page
+as another real world (planet) example
 or the [Planet Pluto Documentation](http://feedreader.github.io) that runs (auto-builds/generates) both. 
 
 ---
