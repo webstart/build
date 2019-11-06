@@ -1,6 +1,6 @@
 # Planet Vienna.rb
 
-Web feed list and configuration for [Planet Vienna.rb](http://viennarb.herokuapp.com)
+Web feed list and configuration for the [Planet Vienna.rb](http://viennarb.herokuapp.com)
 and [Planet Friends of Vienna.rb](http://viennarb.herokuapp.com/viennarbfriends) news website / pages.
 
 
